@@ -1,3 +1,6 @@
 ### dependency
 streamlit
+sqlite3
+requests
+PIL
 
